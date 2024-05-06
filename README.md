@@ -19,8 +19,3 @@ Flask==2.0.1
 Pillow==9.0.1
 torch==1.10.0
 transformers==4.12.2
-
-**Buily By:**
-
-Gavin Pereira
-
